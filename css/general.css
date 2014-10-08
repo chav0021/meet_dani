@@ -181,7 +181,7 @@ nav a:active{
 	margin-top: .6rem;
 }
 
-.details a {
+.details a, .inline-link {
 	text-decoration: none;
 	color: rgba(48, 48, 48, 1);
 	border-bottom: 1px solid rgba(48, 48, 48, 1);
@@ -192,7 +192,7 @@ nav a:active{
     transition: all 100ms ease-in-out;
 }
 
-.details a:hover {
+.details a:hover, .inline-link:hover {
 	color: rgba(48, 48, 48, .6);
 	border-bottom: 1px solid rgba(48, 48, 48, .6);
 }
