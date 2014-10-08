@@ -232,11 +232,11 @@ nav a:active{
 	padding: 7rem 2rem 0;
 	color: #fff;
 	top: 100%;
-	-webkit-transition: all 350ms ease-in-out;
-    -moz-transition: all 350ms ease-in-out;
-    -o-transition: all 350ms ease-in-out;
-    -ms-transition: all 350ms ease-in-out;
-    transition: all 350ms ease-in-out;
+	-webkit-transition: all 380ms ease-in-out;
+    -moz-transition: all 380ms ease-in-out;
+    -o-transition: all 380ms ease-in-out;
+    -ms-transition: all 380ms ease-in-out;
+    transition: all 380ms ease-in-out;
 }
 
 .portfolio-piece:hover .portfolio-info {
